@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.1.0
-Release:	%mkrel 11
+Release:	%mkrel 12
 Summary:	HL7 messaging API
 License:	PHP License
 Group:		Development/PHP
